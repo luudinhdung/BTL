@@ -1,0 +1,22 @@
+﻿<Window x:Class="ManagamentLibrary.EmailAuthentication"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ManagamentLibrary"
+        mc:Ignorable="d"
+        WindowStyle="SingleBorderWindow" ResizeMode="NoResize"
+        Title="EmailAuthentication" Height="500" Width="349" Background="#FF232423" >
+    <Grid>
+        <Button x:Name="btnArrow" Click="btnArrow_Click" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}">
+            <Image Source="pack://application:,,,/img/arrow.png" Height="25" Width="25"/>
+        </Button>
+        <Image HorizontalAlignment="Center" Height="100" Margin="0,22,0,0" VerticalAlignment="Top" Width="100" Source="pack://application:,,,/img/emailAuthentication.png"/>
+        <Label Content="Mã xác thực sẽ được gửi đếm Email:" HorizontalAlignment="Center" Margin="0,140,0,0" VerticalAlignment="Top" Height="29" Width="233" Foreground="White" FontSize="14"/>
+        <Label Name="Email_Authentication_Content" Content="" Margin="0,174,0,0" Height="29" Width="233" Foreground="White" FontSize="14" HorizontalAlignment="Center" VerticalAlignment="Top"
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <TextBox Name="txtConfirmCode" HorizontalAlignment="Left" Margin="58,223,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151" Height="27" FontSize="16"/>
+        <Button Click="SendCode_Click" Content="Gửi mã" HorizontalAlignment="Left" Margin="228,223,0,0" VerticalAlignment="Top" Width="63" FontSize="16" Background="White"/>
+        <Button Click="ConfirmCode_Click" Content="Xác nhận" HorizontalAlignment="Center" Margin="0,300,0,0" VerticalAlignment="Top" Height="34" Width="139" FontSize="16" Background="White"/>
+    </Grid>
+</Window>

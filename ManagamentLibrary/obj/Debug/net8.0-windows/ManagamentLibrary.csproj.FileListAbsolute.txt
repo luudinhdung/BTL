@@ -1,0 +1,237 @@
+D:\Net\ManagamentLibrary\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.exe
+D:\Net\ManagamentLibrary\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.deps.json
+D:\Net\ManagamentLibrary\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.runtimeconfig.json
+D:\Net\ManagamentLibrary\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.dll
+D:\Net\ManagamentLibrary\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.pdb
+D:\Net\ManagamentLibrary\ManagamentLibrary\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Net\ManagamentLibrary\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Net\ManagamentLibrary\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Net\ManagamentLibrary\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Net\ManagamentLibrary\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Net\ManagamentLibrary\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Net\ManagamentLibrary\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.csproj.AssemblyReference.cache
+D:\Net\ManagamentLibrary\ManagamentLibrary\obj\Debug\net8.0-windows\DashBoard.g.cs
+D:\Net\ManagamentLibrary\ManagamentLibrary\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Net\ManagamentLibrary\ManagamentLibrary\obj\Debug\net8.0-windows\App.g.cs
+D:\Net\ManagamentLibrary\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary_MarkupCompile.cache
+D:\Net\ManagamentLibrary\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary_MarkupCompile.lref
+D:\Net\ManagamentLibrary\ManagamentLibrary\obj\Debug\net8.0-windows\DashBoard.baml
+D:\Net\ManagamentLibrary\ManagamentLibrary\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Net\ManagamentLibrary\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.g.resources
+D:\Net\ManagamentLibrary\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Net\ManagamentLibrary\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.AssemblyInfoInputs.cache
+D:\Net\ManagamentLibrary\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.AssemblyInfo.cs
+D:\Net\ManagamentLibrary\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.csproj.CoreCompileInputs.cache
+D:\Net\ManagamentLibrary\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.csproj.CopyComplete
+D:\Net\ManagamentLibrary\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.dll
+D:\Net\ManagamentLibrary\ManagamentLibrary\obj\Debug\net8.0-windows\refint\ManagamentLibrary.dll
+D:\Net\ManagamentLibrary\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.pdb
+D:\Net\ManagamentLibrary\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.genruntimeconfig.cache
+D:\Net\ManagamentLibrary\ManagamentLibrary\obj\Debug\net8.0-windows\ref\ManagamentLibrary.dll
+D:\Net\ManagamentLibrary\ManagamentLibrary\obj\Debug\net8.0-windows\AddBook.g.cs
+D:\Net\ManagamentLibrary\ManagamentLibrary\obj\Debug\net8.0-windows\AddBook.baml
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.exe
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.deps.json
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.runtimeconfig.json
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.dll
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.pdb
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\bin\Debug\net8.0-windows\WpfAnimatedGif.dll
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.csproj.AssemblyReference.cache
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\AddBook.g.cs
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\DashBoard.g.cs
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\App.g.cs
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary_MarkupCompile.cache
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary_MarkupCompile.lref
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\AddBook.baml
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\DashBoard.baml
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.g.resources
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.AssemblyInfoInputs.cache
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.AssemblyInfo.cs
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.csproj.CoreCompileInputs.cache
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.csproj.CopyComplete
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.dll
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\refint\ManagamentLibrary.dll
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.pdb
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.genruntimeconfig.cache
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ref\ManagamentLibrary.dll
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ViewBook.g.cs
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ViewBook.baml
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\SignUp.g.cs
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\SignUp.baml
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\EmailAuthentication.g.cs
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\EmailAuthentication.baml
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ForgotPassword.g.cs
+D:\Net\ManagamentLibrary - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ForgotPassword.baml
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.exe
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.deps.json
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.runtimeconfig.json
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.dll
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.pdb
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\bin\Debug\net8.0-windows\WpfAnimatedGif.dll
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.csproj.AssemblyReference.cache
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\App.g.cs
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary_MarkupCompile.cache
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary_MarkupCompile.lref
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\Views\MainWindow.baml
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.g.resources
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.AssemblyInfoInputs.cache
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.AssemblyInfo.cs
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.csproj.CoreCompileInputs.cache
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.csproj.CopyComplete
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.dll
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\refint\ManagamentLibrary.dll
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.pdb
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.genruntimeconfig.cache
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\ref\ManagamentLibrary.dll
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\Views\SignUp.g.cs
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\Views\SignUp.baml
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\Views\EmailAuthentication.g.cs
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\Views\EmailAuthentication.baml
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\Views\ForgotPassword.g.cs
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\Views\ForgotPassword.baml
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\Views\DashBoard.g.cs
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\Views\DashBoard.baml
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\Views\AddBook.g.cs
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\Views\AddBook.baml
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\Views\ViewBook.g.cs
+D:\BackUp\ManagamentLibrary_1\ManagamentLibrary\obj\Debug\net8.0-windows\Views\ViewBook.baml
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.exe
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.deps.json
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.runtimeconfig.json
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.dll
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.pdb
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\bin\Debug\net8.0-windows\WpfAnimatedGif.dll
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.csproj.AssemblyReference.cache
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\Views\AddBook.g.cs
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\Views\DashBoard.g.cs
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\Views\EmailAuthentication.g.cs
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\Views\ForgotPassword.g.cs
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\Views\SignUp.g.cs
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\Views\ViewBook.g.cs
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\App.g.cs
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary_MarkupCompile.cache
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary_MarkupCompile.lref
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\Views\AddBook.baml
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\Views\DashBoard.baml
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\Views\EmailAuthentication.baml
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\Views\ForgotPassword.baml
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\Views\MainWindow.baml
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\Views\SignUp.baml
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\Views\ViewBook.baml
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.g.resources
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.AssemblyInfoInputs.cache
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.AssemblyInfo.cs
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.csproj.CoreCompileInputs.cache
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.csproj.CopyComplete
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.dll
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\refint\ManagamentLibrary.dll
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.pdb
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.genruntimeconfig.cache
+D:\BackUp\ManagamentLibrary_complete1\ManagamentLibrary\obj\Debug\net8.0-windows\ref\ManagamentLibrary.dll
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.csproj.AssemblyReference.cache
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\Views\AddBook.g.cs
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\Views\DashBoard.g.cs
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\Views\EmailAuthentication.g.cs
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\Views\ForgotPassword.g.cs
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\Views\SignUp.g.cs
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\Views\ViewBook.g.cs
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\App.g.cs
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary_MarkupCompile.cache
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary_MarkupCompile.lref
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.dll
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\refint\ManagamentLibrary.dll
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.pdb
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.exe
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.deps.json
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.runtimeconfig.json
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.dll
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.pdb
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\bin\Debug\net8.0-windows\WpfAnimatedGif.dll
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\Views\AddBook.baml
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\Views\DashBoard.baml
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\Views\EmailAuthentication.baml
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\Views\ForgotPassword.baml
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\Views\MainWindow.baml
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\Views\SignUp.baml
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\Views\ViewBook.baml
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.g.resources
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.AssemblyInfoInputs.cache
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.AssemblyInfo.cs
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.csproj.CoreCompileInputs.cache
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.csproj.CopyComplete
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.genruntimeconfig.cache
+D:\BackUp\ManagamentLibrary_complete1 - Copy\ManagamentLibrary\obj\Debug\net8.0-windows\ref\ManagamentLibrary.dll
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.csproj.AssemblyReference.cache
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\Views\AddBook.g.cs
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\Views\DashBoard.g.cs
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\Views\EmailAuthentication.g.cs
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\Views\ForgotPassword.g.cs
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\Views\Login.g.cs
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\Views\SignUp.g.cs
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\Views\ViewBook.g.cs
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\App.g.cs
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary_MarkupCompile.cache
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary_MarkupCompile.lref
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.dll
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\refint\ManagamentLibrary.dll
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.pdb
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.exe
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.deps.json
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.runtimeconfig.json
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.dll
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.pdb
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\bin\Debug\net8.0-windows\WpfAnimatedGif.dll
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\Views\AddBook.baml
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\Views\DashBoard.baml
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\Views\EmailAuthentication.baml
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\Views\ForgotPassword.baml
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\Views\Login.baml
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\Views\SignUp.baml
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\Views\ViewBook.baml
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.g.resources
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.AssemblyInfoInputs.cache
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.AssemblyInfo.cs
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.csproj.CoreCompileInputs.cache
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.csproj.CopyComplete
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.genruntimeconfig.cache
+D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\ref\ManagamentLibrary.dll

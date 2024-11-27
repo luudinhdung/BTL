@@ -1,0 +1,40 @@
+﻿<Window x:Class="ManagamentLibrary.SignUp"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ManagamentLibrary"
+        mc:Ignorable="d"
+        WindowStyle="SingleBorderWindow" ResizeMode="NoResize"
+        Title="SignUp" Height="500" Width="349" Background="#FF232423" >
+    <Grid>
+        <Button x:Name="btnArrow" Click="btnArrow_Click" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}">
+            <Image Source="pack://application:,,,/img/arrow.png" Height="25" Width="25"/>
+        </Button>
+        <Image HorizontalAlignment="Center" Height="100" Margin="0,22,0,0" VerticalAlignment="Top" Width="100" Source="pack://application:,,,/img/signup.png"/>
+        <TextBox HorizontalAlignment="Center" Margin="0,150,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="182" Height="21" Background="{x:Null}" 
+        BorderBrush="#FFACAAAA" Foreground="#FF717171" BorderThickness="0,0,0,1" 
+        GotFocus="TextBox_GotFocus" LostFocus="TextBox_LostFocus" x:Name="UsernameTextBox"/>
+        <Image HorizontalAlignment="Left" Height="35" Margin="36,143,0,0" VerticalAlignment="Top" Width="35" Source="pack://application:,,,/img/user.png"/>
+
+        <Image HorizontalAlignment="Left" Height="35" Margin="36,204,0,0" VerticalAlignment="Top" Width="35" Source="pack://application:,,,/img/padlock.png"/>
+        <PasswordBox HorizontalAlignment="Center" Margin="0,212,0,0" VerticalAlignment="Top" Width="182" Height="18" 
+            Background="{x:Null}" Foreground="#FF717171" BorderThickness="0,0,0,1" 
+            GotFocus="PasswordBox_GotFocus" LostFocus="PasswordBox_LostFocus" x:Name="PasswordTextBox"/>
+        <TextBox x:Name="VisiblePasswordTextBox" HorizontalAlignment="Center" Margin="0,212,0,0" 
+                 VerticalAlignment="Top" Width="182" Height="18" GotFocus="PasswordBox_GotFocus" LostFocus="PasswordBox_LostFocus" Visibility="Collapsed"
+                 BorderThickness="0,0,0,1" Background="{x:Null}" Foreground="#FF717171" />
+        <Button x:Name="TogglePasswordVisibilityButton" HorizontalAlignment="Right" Margin="0,206,70,0"
+            VerticalAlignment="Top" Width="30" Height="18" BorderBrush="{x:Null}"
+            Click="TogglePasswordVisibilityButton_Click" Foreground="White" Background="{x:Null}">
+            <Image Source="pack://application:,,,/img/eye_open1.png" Width="20" Height="20"/>
+        </Button>
+
+        <Image HorizontalAlignment="Left" Height="35" Margin="36,265,0,0" VerticalAlignment="Top" Width="35" Source="pack://application:,,,/img/send-mail.png"/>
+        <TextBox HorizontalAlignment="Center" Margin="0,272,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="182" Height="21" Background="{x:Null}" 
+            BorderBrush="#FFACAAAA" Foreground="#FF717171" BorderThickness="0,0,0,1" 
+            GotFocus="EmailBox_GotFocus" LostFocus="EmailBox_LostFocus" x:Name="EmailTextBox"/>
+        <Button Click="SignUpAdmin_Click" Cursor="Hand" Content="Next" HorizontalAlignment="Center" Margin="0,343,0,0" VerticalAlignment="Top" Height="34" Width="182" Background="#FF08D3EF"/>
+
+    </Grid>
+</Window>
