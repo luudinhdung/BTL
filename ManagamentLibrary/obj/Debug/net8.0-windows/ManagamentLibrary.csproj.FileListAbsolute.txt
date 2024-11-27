@@ -235,3 +235,45 @@ D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\ob
 D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.csproj.CopyComplete
 D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.genruntimeconfig.cache
 D:\BackUp\ManagamentLibrary_complete1_đã sửa logic code\ManagamentLibrary\obj\Debug\net8.0-windows\ref\ManagamentLibrary.dll
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.exe
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.deps.json
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.runtimeconfig.json
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.dll
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\bin\Debug\net8.0-windows\ManagamentLibrary.pdb
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\bin\Debug\net8.0-windows\WpfAnimatedGif.dll
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.csproj.AssemblyReference.cache
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\Views\AddBook.g.cs
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\Views\DashBoard.g.cs
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\Views\EmailAuthentication.g.cs
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\Views\ForgotPassword.g.cs
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\Views\Login.g.cs
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\Views\SignUp.g.cs
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\Views\ViewBook.g.cs
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\App.g.cs
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary_MarkupCompile.cache
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary_MarkupCompile.lref
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\Views\AddBook.baml
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\Views\DashBoard.baml
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\Views\EmailAuthentication.baml
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\Views\ForgotPassword.baml
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\Views\Login.baml
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\Views\SignUp.baml
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\Views\ViewBook.baml
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.g.resources
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.AssemblyInfoInputs.cache
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.AssemblyInfo.cs
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.csproj.CoreCompileInputs.cache
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.sourcelink.json
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.csproj.CopyComplete
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.dll
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\refint\ManagamentLibrary.dll
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.pdb
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\ManagamentLibrary.genruntimeconfig.cache
+D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\ref\ManagamentLibrary.dll

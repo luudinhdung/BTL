@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hfps5LyHtSvUuALY0IFrl1gYE3EJb2WgnN9KiWiQz0gGPpH1aNUP5J76cetvIYZ86gaOfiajcvSFK/1U5HzoiQ==",
+  "dgSpecHash": "LVGt9OPURZ5SvMlxe+TtykjsOFAOAm5uVbbRAVIosT98JiKIjBuvvSa1TIAD6QqPpEz71UbEoujbGbx8txlH3A==",
   "success": true,
-  "projectFilePath": "D:\\BackUp\\ManagamentLibrary_complete1_đã sửa logic code\\ManagamentLibrary\\ManagamentLibrary.csproj",
+  "projectFilePath": "D:\\BTL .Net\\BTL_LibraryManagement\\ManagamentLibrary\\ManagamentLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HUU HOA COMPUTER\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\HUU HOA COMPUTER\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

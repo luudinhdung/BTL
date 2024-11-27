@@ -21,7 +21,7 @@ namespace ManagamentLibrary.Models
         public int Price { get; set; }
         public int Quantity { get; set; }
 
-        private readonly string connect = "Data Source=DESKTOP-2AK902G\\SQLEXPRESS;Initial Catalog=management library;User ID=sa;Password=Password123";
+        private readonly string connect = "Data Source=DESKTOP-2AK902G\\MSSQLSERVER2022;Initial Catalog=management library;User ID=sa;Password=123";
 
         public void LoadData(DataGrid grid)
         {

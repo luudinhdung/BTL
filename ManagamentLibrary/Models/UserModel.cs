@@ -13,8 +13,8 @@ namespace ManagamentLibrary.Models
         public string? UserName { get; set; }
         public string? Password { get; set; }
         public string? Email { get; set; }
-        private readonly string connect = "Data Source=DESKTOP-2AK902G\\SQLEXPRESS;Initial Catalog=management library;User ID=sa;Password=Password123";
-       
+        private readonly string connect = "Data Source=DESKTOP-2AK902G\\MSSQLSERVER2022;Initial Catalog=management library;User ID=sa;Password=123";
+
         // login
         public bool ValidateUser()
         {
