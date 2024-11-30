@@ -28,12 +28,12 @@
                 <MenuItem.Icon>
                     <Image Source="pack://application:,,,/img/icons8-student-male-50.png" ScrollViewer.VerticalScrollBarVisibility="Hidden" Cursor="None" Width="50" Height="50" Margin="-1,-20,-33,-14"/>
                 </MenuItem.Icon>
-                <MenuItem Header="Add Student" Height="45">
+                <MenuItem Header="Add Student" Height="45" Click="ClickAddStudent">
                     <MenuItem.Icon>
                         <Image Source="pack://application:,,,/img/icons8-student-male-1000.png" Cursor="None" Width="18" Height="18" ScrollViewer.VerticalScrollBarVisibility="Hidden" Stretch="UniformToFill"/>
                     </MenuItem.Icon>
                 </MenuItem>
-                <MenuItem Header="View Student Info" Height="45">
+                <MenuItem Header="View Student Info" Height="45" Click="ClickViewStudent">
                     <MenuItem.Icon>
                         <Image Source="pack://application:,,,/img/icons8-view-50.png" Cursor="None" Width="22" Height="22" ScrollViewer.VerticalScrollBarVisibility="Hidden" Stretch="UniformToFill"/>
                     </MenuItem.Icon>

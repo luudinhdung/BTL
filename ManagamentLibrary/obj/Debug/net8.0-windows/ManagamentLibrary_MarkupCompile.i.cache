@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\
+D:\project\C#\BTLL\BTL_LibraryManagement\ManagamentLibrary\obj\Debug\net8.0-windows\
 ManagamentLibrary
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-D:\BTL .Net\BTL_LibraryManagement\ManagamentLibrary\App.xaml
-7-2018502293
+D:\project\C#\BTLL\BTL_LibraryManagement\ManagamentLibrary\App.xaml
+91978735668
 
-22536222357
-2001181694595
-Views\AddBook.xaml;Views\DashBoard.xaml;Views\EmailAuthentication.xaml;Views\ForgotPassword.xaml;Views\Login.xaml;Views\SignUp.xaml;Views\ViewBook.xaml;
+26-44654198
+200-1502726020
+Views\AddBook.xaml;Views\AddStudent.xaml;Views\DashBoard.xaml;Views\EmailAuthentication.xaml;Views\ForgotPassword.xaml;Views\Login.xaml;Views\SignUp.xaml;Views\ViewBook.xaml;Views\ViewStudent.xaml;
 
-False
+True
 

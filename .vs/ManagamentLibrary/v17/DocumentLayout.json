@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\managamentlibrary\\views\\viewbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|solutionrelative:managamentlibrary\\views\\viewbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\managamentlibrary\\views\\viewstudent.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|solutionrelative:managamentlibrary\\views\\viewstudent.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\managamentlibrary\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|solutionrelative:managamentlibrary\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\managamentlibrary\\controller\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|solutionrelative:managamentlibrary\\controller\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|d:\\project\\c#\\btll\\btl_librarymanagement\\managamentlibrary\\views\\viewstudent.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|solutionrelative:managamentlibrary\\views\\viewstudent.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\managamentlibrary\\views\\viewbook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|solutionrelative:managamentlibrary\\views\\viewbook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\managamentlibrary\\views\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|solutionrelative:managamentlibrary\\views\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\managamentlibrary\\views\\addbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|solutionrelative:managamentlibrary\\views\\addbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\managamentlibrary\\views\\addstudent.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|solutionrelative:managamentlibrary\\views\\addstudent.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\managamentlibrary\\views\\addstudent.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|solutionrelative:managamentlibrary\\views\\addstudent.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\managamentlibrary\\views\\addbook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|solutionrelative:managamentlibrary\\views\\addbook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\managamentlibrary\\views\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|solutionrelative:managamentlibrary\\views\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\managamentlibrary\\controller\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|solutionrelative:managamentlibrary\\controller\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\managamentlibrary\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|solutionrelative:managamentlibrary\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\managamentlibrary\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|solutionrelative:managamentlibrary\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\managamentlibrary\\controller\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|solutionrelative:managamentlibrary\\controller\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\managamentlibrary\\controller\\emailauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|solutionrelative:managamentlibrary\\controller\\emailauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\managamentlibrary\\models\\emailservicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|solutionrelative:managamentlibrary\\models\\emailservicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\managamentlibrary\\views\\emailauthentication.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD0F6656-C16C-4497-89E3-3AF89873EC84}|ManagamentLibrary\\ManagamentLibrary.csproj|solutionrelative:managamentlibrary\\views\\emailauthentication.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "ManagamentLibrary\\Models\\StudentModel.cs",
+              "ToolTip": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Models\\StudentModel.cs",
+              "RelativeToolTip": "ManagamentLibrary\\Models\\StudentModel.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAYwFgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:19:17.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewBook.xaml",
+              "DocumentMoniker": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Views\\ViewBook.xaml",
+              "RelativeDocumentMoniker": "ManagamentLibrary\\Views\\ViewBook.xaml",
+              "ToolTip": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Views\\ViewBook.xaml",
+              "RelativeToolTip": "ManagamentLibrary\\Views\\ViewBook.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T14:08:26.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewBook.xaml.cs",
+              "DocumentMoniker": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Views\\ViewBook.xaml.cs",
+              "RelativeDocumentMoniker": "ManagamentLibrary\\Views\\ViewBook.xaml.cs",
+              "ToolTip": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Views\\ViewBook.xaml.cs",
+              "RelativeToolTip": "ManagamentLibrary\\Views\\ViewBook.xaml.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAgwEwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:23:05.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewStudent.xaml.cs",
+              "DocumentMoniker": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Views\\ViewStudent.xaml.cs",
+              "RelativeDocumentMoniker": "ManagamentLibrary\\Views\\ViewStudent.xaml.cs",
+              "ToolTip": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Views\\ViewStudent.xaml.cs",
+              "RelativeToolTip": "ManagamentLibrary\\Views\\ViewStudent.xaml.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAuwEUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:23:01.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DashBoard.xaml.cs",
+              "DocumentMoniker": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Views\\DashBoard.xaml.cs",
+              "RelativeDocumentMoniker": "ManagamentLibrary\\Views\\DashBoard.xaml.cs",
+              "ToolTip": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Views\\DashBoard.xaml.cs",
+              "RelativeToolTip": "ManagamentLibrary\\Views\\DashBoard.xaml.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAiwGMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:08:42.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Controller\\StudentController.cs",
+              "RelativeDocumentMoniker": "ManagamentLibrary\\Controller\\StudentController.cs",
+              "ToolTip": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Controller\\StudentController.cs",
+              "RelativeToolTip": "ManagamentLibrary\\Controller\\StudentController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAzwB8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:14:11.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewStudent.xaml",
+              "DocumentMoniker": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Views\\ViewStudent.xaml",
+              "RelativeDocumentMoniker": "ManagamentLibrary\\Views\\ViewStudent.xaml",
+              "ToolTip": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Views\\ViewStudent.xaml",
+              "RelativeToolTip": "ManagamentLibrary\\Views\\ViewStudent.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T14:08:54.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddBook.xaml",
+              "DocumentMoniker": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Views\\AddBook.xaml",
+              "RelativeDocumentMoniker": "ManagamentLibrary\\Views\\AddBook.xaml",
+              "ToolTip": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Views\\AddBook.xaml",
+              "RelativeToolTip": "ManagamentLibrary\\Views\\AddBook.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T13:15:49.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddStudent.xaml",
+              "DocumentMoniker": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Views\\AddStudent.xaml",
+              "RelativeDocumentMoniker": "ManagamentLibrary\\Views\\AddStudent.xaml",
+              "ToolTip": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Views\\AddStudent.xaml",
+              "RelativeToolTip": "ManagamentLibrary\\Views\\AddStudent.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-27T16:20:26.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashBoard.xaml",
+              "DocumentMoniker": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Views\\DashBoard.xaml",
+              "RelativeDocumentMoniker": "ManagamentLibrary\\Views\\DashBoard.xaml",
+              "ToolTip": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Views\\DashBoard.xaml",
+              "RelativeToolTip": "ManagamentLibrary\\Views\\DashBoard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T01:00:31.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddBook.xaml.cs",
+              "DocumentMoniker": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Views\\AddBook.xaml.cs",
+              "RelativeDocumentMoniker": "ManagamentLibrary\\Views\\AddBook.xaml.cs",
+              "ToolTip": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Views\\AddBook.xaml.cs",
+              "RelativeToolTip": "ManagamentLibrary\\Views\\AddBook.xaml.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAswDsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:18:10.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddStudent.xaml.cs",
+              "DocumentMoniker": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Views\\AddStudent.xaml.cs",
+              "RelativeDocumentMoniker": "ManagamentLibrary\\Views\\AddStudent.xaml.cs",
+              "ToolTip": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Views\\AddStudent.xaml.cs",
+              "RelativeToolTip": "ManagamentLibrary\\Views\\AddStudent.xaml.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAwDIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:11:49.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "ManagamentLibrary\\Models\\BookModel.cs",
+              "ToolTip": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Models\\BookModel.cs",
+              "RelativeToolTip": "ManagamentLibrary\\Models\\BookModel.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwEsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:18:33.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SignUpController.cs",
+              "DocumentMoniker": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Controller\\SignUpController.cs",
+              "RelativeDocumentMoniker": "ManagamentLibrary\\Controller\\SignUpController.cs",
+              "ToolTip": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Controller\\SignUpController.cs",
+              "RelativeToolTip": "ManagamentLibrary\\Controller\\SignUpController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:28:51.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Controller\\BookController.cs",
+              "RelativeDocumentMoniker": "ManagamentLibrary\\Controller\\BookController.cs",
+              "ToolTip": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Controller\\BookController.cs",
+              "RelativeToolTip": "ManagamentLibrary\\Controller\\BookController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:25:11.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "ManagamentLibrary\\Models\\UserModel.cs",
+              "ToolTip": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Models\\UserModel.cs",
+              "RelativeToolTip": "ManagamentLibrary\\Models\\UserModel.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:50:13.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmailServiceModel.cs",
+              "DocumentMoniker": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Models\\EmailServiceModel.cs",
+              "RelativeDocumentMoniker": "ManagamentLibrary\\Models\\EmailServiceModel.cs",
+              "ToolTip": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Models\\EmailServiceModel.cs",
+              "RelativeToolTip": "ManagamentLibrary\\Models\\EmailServiceModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:57:41.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmailAuthenticationController.cs",
+              "DocumentMoniker": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Controller\\EmailAuthenticationController.cs",
+              "RelativeDocumentMoniker": "ManagamentLibrary\\Controller\\EmailAuthenticationController.cs",
+              "ToolTip": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Controller\\EmailAuthenticationController.cs",
+              "RelativeToolTip": "ManagamentLibrary\\Controller\\EmailAuthenticationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:57:45.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmailAuthentication.xaml",
+              "DocumentMoniker": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Views\\EmailAuthentication.xaml",
+              "RelativeDocumentMoniker": "ManagamentLibrary\\Views\\EmailAuthentication.xaml",
+              "ToolTip": "D:\\project\\C#\\BTLL\\BTL_LibraryManagement\\ManagamentLibrary\\Views\\EmailAuthentication.xaml",
+              "RelativeToolTip": "ManagamentLibrary\\Views\\EmailAuthentication.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T00:56:53.959Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -21,7 +21,7 @@ namespace ManagamentLibrary.Models
         public int Price { get; set; }
         public int Quantity { get; set; }
 
-        private readonly string connect = "Data Source=DESKTOP-2AK902G\\MSSQLSERVER2022;Initial Catalog=management library;User ID=sa;Password=123";
+        private readonly string connect = "Data Source=ADMIN-PC;Initial Catalog=management library;Integrated Security=True";
 
         public void LoadData(DataGrid grid)
         {
@@ -80,9 +80,8 @@ namespace ManagamentLibrary.Models
                     command.Parameters.AddWithValue("@bookDate", PurchaseDate);
                     command.Parameters.AddWithValue("@bookPrice", Price);
                     command.Parameters.AddWithValue("@bkQuantity", Quantity);
-
                     command.ExecuteNonQuery();
-                }
+                } 
                 conn.Close();
             }
         }

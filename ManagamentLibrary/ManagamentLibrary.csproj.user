@@ -10,6 +10,9 @@
     <Compile Update="Views\AddBook.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Views\AddStudent.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Views\DashBoard.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -25,9 +28,15 @@
     <Compile Update="Views\ViewBook.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Views\ViewStudent.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="Views\AddBook.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\AddStudent.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Views\DashBoard.xaml">
@@ -46,6 +55,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Views\ViewBook.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ViewStudent.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

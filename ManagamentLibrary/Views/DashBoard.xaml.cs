@@ -1,4 +1,5 @@
 ﻿using ManagamentLibrary.Controller;
+using ManagamentLibrary.Views;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -24,12 +25,18 @@ namespace ManagamentLibrary
 
         private ViewBook viewBook;
 
+        private AddStudent addStudent;
+
+        private ViewStudent viewStudent;
+
         private readonly DashBoardController dashBoardController;
         public DashBoard()
         {
             InitializeComponent();
             addBook = new AddBook();
             viewBook = new ViewBook();
+            addStudent = new AddStudent();
+            viewStudent = new ViewStudent();
             dashBoardController = new DashBoardController();
             this.Closing += DashBoard_Closing;  // kiểm tra xem có của sổ con nào của dashboard chưa đóng hay không
         
@@ -85,7 +92,14 @@ namespace ManagamentLibrary
         {
             dashBoardController.ShowOrActivateWindow(ref viewBook);
         }
+        private void ClickViewStudent(object sender, RoutedEventArgs e)
+        {
+            dashBoardController.ShowOrActivateWindow(ref viewStudent);
+        }
+        private void ClickAddStudent(object sender, RoutedEventArgs e)
+        {
+            dashBoardController.ShowOrActivateWindow(ref addStudent);
+        }
 
-        
     }
 }
